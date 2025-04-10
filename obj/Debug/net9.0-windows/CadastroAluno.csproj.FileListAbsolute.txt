@@ -1,0 +1,14 @@
+E:\Visual Projects\Windows\winForms\Universal\CadastroAluno\bin\Debug\net9.0-windows\CadastroAluno.exe
+E:\Visual Projects\Windows\winForms\Universal\CadastroAluno\bin\Debug\net9.0-windows\CadastroAluno.deps.json
+E:\Visual Projects\Windows\winForms\Universal\CadastroAluno\bin\Debug\net9.0-windows\CadastroAluno.runtimeconfig.json
+E:\Visual Projects\Windows\winForms\Universal\CadastroAluno\bin\Debug\net9.0-windows\CadastroAluno.dll
+E:\Visual Projects\Windows\winForms\Universal\CadastroAluno\bin\Debug\net9.0-windows\CadastroAluno.pdb
+E:\Visual Projects\Windows\winForms\Universal\CadastroAluno\obj\Debug\net9.0-windows\CadastroAluno.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Projects\Windows\winForms\Universal\CadastroAluno\obj\Debug\net9.0-windows\CadastroAluno.AssemblyInfoInputs.cache
+E:\Visual Projects\Windows\winForms\Universal\CadastroAluno\obj\Debug\net9.0-windows\CadastroAluno.AssemblyInfo.cs
+E:\Visual Projects\Windows\winForms\Universal\CadastroAluno\obj\Debug\net9.0-windows\CadastroAluno.csproj.CoreCompileInputs.cache
+E:\Visual Projects\Windows\winForms\Universal\CadastroAluno\obj\Debug\net9.0-windows\CadastroAluno.dll
+E:\Visual Projects\Windows\winForms\Universal\CadastroAluno\obj\Debug\net9.0-windows\refint\CadastroAluno.dll
+E:\Visual Projects\Windows\winForms\Universal\CadastroAluno\obj\Debug\net9.0-windows\CadastroAluno.pdb
+E:\Visual Projects\Windows\winForms\Universal\CadastroAluno\obj\Debug\net9.0-windows\CadastroAluno.genruntimeconfig.cache
+E:\Visual Projects\Windows\winForms\Universal\CadastroAluno\obj\Debug\net9.0-windows\ref\CadastroAluno.dll
