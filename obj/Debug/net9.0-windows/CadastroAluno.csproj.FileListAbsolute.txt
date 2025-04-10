@@ -12,3 +12,4 @@ E:\Visual Projects\Windows\winForms\Universal\CadastroAluno\obj\Debug\net9.0-win
 E:\Visual Projects\Windows\winForms\Universal\CadastroAluno\obj\Debug\net9.0-windows\CadastroAluno.pdb
 E:\Visual Projects\Windows\winForms\Universal\CadastroAluno\obj\Debug\net9.0-windows\CadastroAluno.genruntimeconfig.cache
 E:\Visual Projects\Windows\winForms\Universal\CadastroAluno\obj\Debug\net9.0-windows\ref\CadastroAluno.dll
+E:\Visual Projects\Windows\winForms\Universal\CadastroAluno\obj\Debug\net9.0-windows\CadastroAluno.sourcelink.json
